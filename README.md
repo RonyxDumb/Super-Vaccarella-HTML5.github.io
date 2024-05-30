@@ -4,5 +4,5 @@ Sfortunatamente, non riesce a trovarla. Perciò la tua missione sarà aiutarla c
 
 - Questo repository è per la versione Web del gioco
 
-[Demo giocabile online!](https://ronyxdumb.github.io/Super-Vaccarella-HTML5.github.io/)
-[Demo scaricabile per Windows!](https://github.com/RonyxDumb/Super-Vaccarella/releases/tag/v2)
+- [Demo giocabile online!](https://ronyxdumb.github.io/Super-Vaccarella-HTML5.github.io/)
+- [Demo scaricabile per Windows!](https://github.com/RonyxDumb/Super-Vaccarella/releases/tag/v2)
